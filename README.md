@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vnybst
+- 👋 Hi, I’m Vinay Bisht | Android Developer + Backend Developer From India
 - 👀 I’m interested in Android app development and Data science
 - 🌱 I’m currently learning Jetpack compose and Api development using grails
 
